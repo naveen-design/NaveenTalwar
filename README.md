@@ -1,4 +1,3 @@
-# Naveen R Talwar
 Welcome to my webpage.
 
 #### Technical skills: Python, Unity 3D, MATLAB
