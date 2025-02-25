@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 ---
 
@@ -120,4 +120,21 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
+
+Welcome to my webpage.
+
+## Technical skills: Python, Unity 3D, MATLAB
+
+## Education
+- Ph.d. | Design | Indian Institute of Science, Bangalore
+- M.Tech. | Digital Electronics and Communication | Ramaiah Institute of Technology, Bangalore
+- B.Tech. | Electronics and Communication | Dr.Ambedkar Institute of Technology, Bangalore
+
+## Projects
+
+- Self-Balancing Robot
+- Fetal ECG Detection
+- Digital Twin (VR)
+- Trajectory prediction
+- Electricity consumption detection using CV
