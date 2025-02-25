@@ -8,7 +8,7 @@ Welcome to my webpage.
 - B.Tech. | Electronics and Communication | Dr.Ambedkar Institute of Technology, Bangalore
 
 ## Projects
-- Led Propeller Display
+
 - Self-Balancing Robot
 - Fetal ECG Detection
 - Digital Twin (VR)
